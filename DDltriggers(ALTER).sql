@@ -2,7 +2,7 @@ CREATE TABLE TabloSemaDonusturme (eventDonusum xml, Tarih datetime);
 
 
 
-
+----Önce üstteki kod sonra trigger kodu çalıştırılır.
 
 
 
