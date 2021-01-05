@@ -11,7 +11,8 @@ BEGIN
 END;
 
 
-
+-----Öncelikle yukarıdaki trigger'ı çalıştırarak oluştururuz.
+-----Ardından aşağıdaki kısımları tek tek çalıştırırsak TRUNCATE ile tabloya boşaltıp ekleme yaptığımızda Trigger harekete geçer.
 
 
 
